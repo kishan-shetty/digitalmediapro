@@ -1,0 +1,39 @@
+.navbar-custom .navbar-nav>.active>a
+{
+  background-color: #2980b9;
+}
+
+.navbar-custom.affix
+{
+  background-color: #fff;
+}
+
+.navbar-custom .navbar-nav>.active>a:focus, .navbar-custom .navbar-nav>.active>a:hover
+{
+  color: #fff;
+  background-color: #2980b9;
+}
+
+.navbar-custom .nav li a, .navbar-custom .navbar-toggle
+{
+  color: #2980b9;
+}
+
+.navbar-custom
+{
+  border-bottom: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.navbar-custom .navbar-brand
+{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #05426a;
+}
+
+
+section h3.section-subheading
+{
+  margin-bottom: 50px;
+}
